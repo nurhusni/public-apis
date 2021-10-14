@@ -676,7 +676,7 @@ API | Description | Auth | HTTPS | CORS |
 | [SuperHeroes](https://superheroapi.com) | All SuperHeroes and Villains data from all universes under a single API | `apiKey` | Yes | Unknown |
 | [TCGdex](https://www.tcgdex.net/docs) | Multi languages Pokémon TCG Information | No | Yes | Yes |
 | [Tebex](https://docs.tebex.io/plugin/) | Tebex API for information about game purchases | `X-Mashape-Key` | Yes | No |
-| [Tracker Network](https://tracker.gg/developers/docs/getting-started) | Player stats of various video games (CSGO, Fortnite, Apex Legends, etc) | `apiKey` | Yes | Unknown
+| [Tracker Network](https://tracker.gg/developers/docs/getting-started) | Player stats on various video games | `apiKey` | Yes | Unknown
 | [Tronald Dump](https://www.tronalddump.io/) | The dumbest things Donald Trump has ever said | No | Yes | Unknown |
 | [Valorant (non-official)](https://valorant-api.com) | An extensive API containing data of most Valorant in-game items, assets and more | No | Yes | Unknown |
 | [Wargaming.net](https://developers.wargaming.net/) | Wargaming.net info and stats | `apiKey` | Yes | No |
